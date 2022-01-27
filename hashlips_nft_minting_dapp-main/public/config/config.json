@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE74358b791C1498273FcEDF99D6274C9340f0C56",
+  "SCAN_LINK": "https://polygonscan.com/address/0xe74358b791c1498273fcedf99d6274c9340f0c56",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Sheep Army NFT",
+  "SYMBOL": "SANFT",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sheep-army-nft",
+  "SHOW_BACKGROUND": true
+}
